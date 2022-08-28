@@ -1,0 +1,22 @@
+
+
+OOP: whih is a programming paradim(style) and which centerd around Objects rather than functions
+OOP:which is not a programming language but programming paradim
+
+4 pillars(core concept of OOP) are:
+  a)Encapsulation:a grouping of a related variables and function are opperated them in an object
+     // it simply grouping  a related variables and function together 
+     benefites
+      # reduce code  complexity
+      # increase code reuseability 
+
+
+         
+b) Abstraction:hiding the details and complexity but shows the essentials part of the code 
+   ## reduce complexity
+   ## isolate impact of change  
+
+
+ c) Inherentace:a technique of eliminating  redundent code
+  d) polymorphism:refactor ugly switch/case statments
+   
